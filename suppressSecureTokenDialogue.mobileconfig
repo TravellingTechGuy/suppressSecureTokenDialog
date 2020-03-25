@@ -30,7 +30,7 @@
 			<key>PayloadIdentifier</key>
 			<string>6530D305-AAF7-4D16-829C-DAC4B3617C2E</string>
 			<key>PayloadOrganization</key>
-			<string>Your Organisation</string>
+			<string>Travelling Tech Guy</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
